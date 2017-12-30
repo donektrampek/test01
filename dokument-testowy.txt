@@ -1,2 +1,2 @@
 To jest zawartoœæ dokumenu testowego.
-Zmiana z poziomu GITHUBa.
+Zmiana z poziomu GITHUB.
