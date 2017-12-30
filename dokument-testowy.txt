@@ -1,1 +1,2 @@
-To jest zawartoœæ dokumenu testowego.
+To jest zawartoÅ“Ã¦ dokumenu testowego.
+Zmiana z poziomu GITHUBa.
