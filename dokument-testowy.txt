@@ -1,2 +1,3 @@
-To jest zawartoœæ dokumenu testowego.
+﻿To jest zawartoœæ dokumenu testowego.
 Zmiana z poziomu GITHUBa.
+Zmiana trzecia z poziomu kat roboczego.
