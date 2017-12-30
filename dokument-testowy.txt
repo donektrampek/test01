@@ -1,3 +1,4 @@
 ﻿To jest zawartoœæ dokumenu testowego.
 Zmiana z poziomu GITHUBa.
 Zmiana trzecia z poziomu kat roboczego.
+Zmiana czwarta z poziomu kat roboczego.
